@@ -23,6 +23,7 @@ A Python simulation of a mass-spring system built as part of my physics + comput
 ```bash
 python3 oscillator.py
 ```
-
+## Preview
+![Harmonic Oscillator Simulation](oscillator_simulation.png)
 ## Author
 Lomitu — Physics student, Year 1
